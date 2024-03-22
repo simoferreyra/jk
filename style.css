@@ -1,0 +1,25 @@
+
+
+.gat p{
+    font-size: 35px;
+    background-color: rgb(214, 196, 223);
+    font-family: 'DM Serif Display', serif;
+    padding: 10px;
+    text-align: center;
+}
+
+.gat li{
+
+    font-size: 35px;
+    background-color: rgb(223, 196, 210);
+    font-family: 'DM Serif Display', serif;
+    padding: 10px;
+    text-align: left;
+}
+
+
+.gat h1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center; 
+
+}
